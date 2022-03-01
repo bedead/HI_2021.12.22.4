@@ -2,7 +2,26 @@
 4th version of on going project.
 Create in Python with use of 
 multiple libraries.
-Libraries used random, pywhatkit, 
+
+
+
+Libraries used pyinstaller
+, pyjokes
+, PyDictionary
+, platform
+, psutil
+, requests
+, getpass
+, pywhatkit
+, pysttx3
+,speechrecogition
+, wikipedia
+, Pyaudio
+, speedtest-cli
+, pyautogui
+, py-cpuinfo
+, cz_freeze
+
 
 
 
