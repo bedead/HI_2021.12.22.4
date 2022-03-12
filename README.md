@@ -1,7 +1,6 @@
 # HI_2021.12.22.4
 4th version of on going project.
-Create in Python with use of 
-multiple libraries.
+Created in Python, using multiple libraries.
 
 
 
